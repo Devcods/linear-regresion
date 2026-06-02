@@ -1,0 +1,1230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//AI ML Roadmap Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AI/ML Roadmap
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:2130c603-a27c-47ad-9147-7e9f8c11fd09@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260505T180000
+DTEND;TZID=America/Edmonton:20260505T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5eb95dfc-4014-4769-aa1c-486ddf974cb3@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260505T183000
+DTEND;TZID=America/Edmonton:20260505T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49b3973a-094f-4f1c-93de-d789305ac3f6@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260505T194500
+DTEND;TZID=America/Edmonton:20260505T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5c3bb07b-e472-4611-b833-6d9f42c3c88b@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260505T204500
+DTEND;TZID=America/Edmonton:20260505T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bff8d2d8-5b2d-45fa-a97f-ce9447f24efe@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260506T180000
+DTEND;TZID=America/Edmonton:20260506T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3271fbb9-00fb-4a7e-bafa-a44c17624dcf@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260506T183000
+DTEND;TZID=America/Edmonton:20260506T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a14d6d-32cb-447e-9a92-d1a658b9caa3@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260506T194500
+DTEND;TZID=America/Edmonton:20260506T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:24b5cd8b-74cf-4a81-8fe0-f6a94876992d@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260506T204500
+DTEND;TZID=America/Edmonton:20260506T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:47cea4d3-181a-46e1-8e2d-8af4bdd9342e@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260507T180000
+DTEND;TZID=America/Edmonton:20260507T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4647a03e-8c51-406c-ac29-3b570c886c7c@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260507T183000
+DTEND;TZID=America/Edmonton:20260507T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1e6bbddb-4123-4ea8-a8a4-95eadd62cc1c@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260507T194500
+DTEND;TZID=America/Edmonton:20260507T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:376b1d64-5afe-42ac-8024-5f62f3014ffa@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260507T204500
+DTEND;TZID=America/Edmonton:20260507T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ae327675-3191-48df-b83d-e6a45bcd9571@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260508T180000
+DTEND;TZID=America/Edmonton:20260508T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e616d504-33c7-4c19-9cca-801d09022a22@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260508T183000
+DTEND;TZID=America/Edmonton:20260508T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:78476875-1bad-44e0-8ab0-fe9ac37aa8a8@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260508T194500
+DTEND;TZID=America/Edmonton:20260508T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:82e9182f-f4e5-429c-8797-abbcc6cafc2a@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260508T204500
+DTEND;TZID=America/Edmonton:20260508T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:12967ca2-ff2f-462f-af70-79a2c6f84fa2@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260510T180000
+DTEND;TZID=America/Edmonton:20260510T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f9b3fd-4650-4e85-9f1c-c4d5fa737109@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260510T183000
+DTEND;TZID=America/Edmonton:20260510T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6142fa70-6875-429d-b8bb-ebd46e435c5b@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260510T194500
+DTEND;TZID=America/Edmonton:20260510T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b3a64acb-e1d2-4ab1-9f1f-c401c19cfc49@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260510T204500
+DTEND;TZID=America/Edmonton:20260510T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8eec811f-25b6-41e0-9750-f4e74e5ded3c@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260514T180000
+DTEND;TZID=America/Edmonton:20260514T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b388f631-1c4a-4753-88b0-990b94cfcaa4@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260514T183000
+DTEND;TZID=America/Edmonton:20260514T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5d0ce860-5294-4d06-b9fc-6271854f64f0@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260514T194500
+DTEND;TZID=America/Edmonton:20260514T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bdcda8bf-b5be-450b-bd60-4675fb11af9c@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260514T204500
+DTEND;TZID=America/Edmonton:20260514T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5e3aa9b3-05c0-4314-a5ae-7a8a0211adf0@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260516T180000
+DTEND;TZID=America/Edmonton:20260516T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7685a1-c47e-4ad4-9637-cb82996af22f@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260516T183000
+DTEND;TZID=America/Edmonton:20260516T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc5dc5c4-07c3-42e3-874f-62d968c2124c@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260516T194500
+DTEND;TZID=America/Edmonton:20260516T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79f7c1a8-4e5e-4c7d-9b98-d39bd7214cd5@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260516T204500
+DTEND;TZID=America/Edmonton:20260516T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:853ca2f2-3882-4fc6-9862-51cce6e5db89@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260519T180000
+DTEND;TZID=America/Edmonton:20260519T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b964fcb-a0fd-42b7-a695-f92382893ea2@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260519T183000
+DTEND;TZID=America/Edmonton:20260519T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:17824a8c-99a6-43a8-8a0b-d62dfb639646@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260519T194500
+DTEND;TZID=America/Edmonton:20260519T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa239b5e-0d5d-4f9a-8082-708a340657ca@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260519T204500
+DTEND;TZID=America/Edmonton:20260519T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b3f6a9-88a3-4b8e-8fe7-da1556088924@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260520T180000
+DTEND;TZID=America/Edmonton:20260520T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7fba72a1-91a6-4f99-b3a2-741a96b7dcfe@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260520T183000
+DTEND;TZID=America/Edmonton:20260520T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b76869de-0611-47d7-8c5a-356c541a971f@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260520T194500
+DTEND;TZID=America/Edmonton:20260520T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:40fd1f25-fe13-48e9-9600-34fe02917b06@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260520T204500
+DTEND;TZID=America/Edmonton:20260520T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:99642553-2339-45db-9715-029aa3a5d297@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260521T180000
+DTEND;TZID=America/Edmonton:20260521T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:34be1bc8-3590-4978-82dc-ec83b91527d1@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260521T183000
+DTEND;TZID=America/Edmonton:20260521T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5e189781-f155-4b95-a04b-e51d979f3439@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260521T194500
+DTEND;TZID=America/Edmonton:20260521T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2f8b3f7e-ec24-40f4-b57a-a4ca10a222ab@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260521T204500
+DTEND;TZID=America/Edmonton:20260521T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33ddf46e-6379-4f3f-a709-a1823c9448f5@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260522T180000
+DTEND;TZID=America/Edmonton:20260522T183000
+DESCRIPTION:Day Type: Work Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:55f684be-6a8b-4dd7-b0da-0653ecdba051@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Main project coding
+DTSTART;TZID=America/Edmonton:20260522T183000
+DTEND;TZID=America/Edmonton:20260522T193000
+DESCRIPTION:Day Type: Work Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Main project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c4f35612-6c59-4cee-9590-cfa49f24e9ba@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Concept learning
+DTSTART;TZID=America/Edmonton:20260522T194500
+DTEND;TZID=America/Edmonton:20260522T204500
+DESCRIPTION:Day Type: Work Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Concept learning
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:50a8f959-bb30-4c57-863b-5540282f0297@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub commit and notes
+DTSTART;TZID=America/Edmonton:20260522T204500
+DTEND;TZID=America/Edmonton:20260522T210000
+DESCRIPTION:Day Type: Work Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub commit and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f5324f63-ea4f-4d75-b7a5-3d44bfc64c88@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Deep project coding
+DTSTART;TZID=America/Edmonton:20260509T080000
+DTEND;TZID=America/Edmonton:20260509T093000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Deep project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bb91f5-d449-4c34-9d13-0dfe79edf0b8@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Continue project coding
+DTSTART;TZID=America/Edmonton:20260509T094500
+DTEND;TZID=America/Edmonton:20260509T110000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Continue project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:885c053c-fbaa-4e69-97e8-33e27a375df6@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260509T110000
+DTEND;TZID=America/Edmonton:20260509T113000
+DESCRIPTION:Day Type: Off Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:392dbb27-d781-4a89-94f5-93c400455130@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Learning block
+DTSTART;TZID=America/Edmonton:20260509T133000
+DTEND;TZID=America/Edmonton:20260509T150000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Learning block
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ec490218-35e9-4c47-88a0-6f09f8987ec4@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Small experiment and notes
+DTSTART;TZID=America/Edmonton:20260509T150000
+DTEND;TZID=America/Edmonton:20260509T153000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Small experiment and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:64b0baee-258a-4373-ba20-8b30a263ecef@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub cleanup and README update
+DTSTART;TZID=America/Edmonton:20260509T173000
+DTEND;TZID=America/Edmonton:20260509T183000
+DESCRIPTION:Day Type: Off Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub cleanup and README update
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:da3d4dee-b9f5-454c-8883-5d3d131a39e5@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:LinkedIn / networking / open-source search
+DTSTART;TZID=America/Edmonton:20260509T183000
+DTEND;TZID=America/Edmonton:20260509T191500
+DESCRIPTION:Day Type: Off Day\\nCategory: Networking\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LinkedIn / networking / open-source search
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49c4d8ae-6eb6-4bd7-8beb-d1499b096231@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Deep project coding
+DTSTART;TZID=America/Edmonton:20260511T080000
+DTEND;TZID=America/Edmonton:20260511T093000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Deep project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5cc04602-1c7a-4c03-997c-72ced825c8dc@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Continue project coding
+DTSTART;TZID=America/Edmonton:20260511T094500
+DTEND;TZID=America/Edmonton:20260511T110000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Continue project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f69fd901-e16f-4b43-9733-ae8557b3347b@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260511T110000
+DTEND;TZID=America/Edmonton:20260511T113000
+DESCRIPTION:Day Type: Off Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3b54b76f-e91a-4f67-917f-503cdf1b72bd@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Learning block
+DTSTART;TZID=America/Edmonton:20260511T133000
+DTEND;TZID=America/Edmonton:20260511T150000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Learning block
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:61255b43-ad2d-43d5-8ce9-adcfaacf9646@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Small experiment and notes
+DTSTART;TZID=America/Edmonton:20260511T150000
+DTEND;TZID=America/Edmonton:20260511T153000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Small experiment and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0cdb1780-b1b4-428f-955d-2a646217f08f@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub cleanup and README update
+DTSTART;TZID=America/Edmonton:20260511T173000
+DTEND;TZID=America/Edmonton:20260511T183000
+DESCRIPTION:Day Type: Off Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub cleanup and README update
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:88bbbd29-e805-47c9-9f6e-66e46b2c4b3d@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:LinkedIn / networking / open-source search
+DTSTART;TZID=America/Edmonton:20260511T183000
+DTEND;TZID=America/Edmonton:20260511T191500
+DESCRIPTION:Day Type: Off Day\\nCategory: Networking\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LinkedIn / networking / open-source search
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9fd8c34d-44c3-419c-8394-664f36624735@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Deep project coding
+DTSTART;TZID=America/Edmonton:20260512T080000
+DTEND;TZID=America/Edmonton:20260512T093000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Deep project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7255e6d8-9922-4ee7-86c1-3ca52cb397b5@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Continue project coding
+DTSTART;TZID=America/Edmonton:20260512T094500
+DTEND;TZID=America/Edmonton:20260512T110000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Continue project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b987f561-4eb3-4856-ab88-a512af2c7b7b@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260512T110000
+DTEND;TZID=America/Edmonton:20260512T113000
+DESCRIPTION:Day Type: Off Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7e7f9d11-1f1e-46e2-9944-bed18978cc55@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Learning block
+DTSTART;TZID=America/Edmonton:20260512T133000
+DTEND;TZID=America/Edmonton:20260512T150000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Learning block
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:96585f87-e42e-4191-b19f-37d907405f75@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Small experiment and notes
+DTSTART;TZID=America/Edmonton:20260512T150000
+DTEND;TZID=America/Edmonton:20260512T153000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Small experiment and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cad09612-81a8-403d-80a4-ea0801a2fb36@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub cleanup and README update
+DTSTART;TZID=America/Edmonton:20260512T173000
+DTEND;TZID=America/Edmonton:20260512T183000
+DESCRIPTION:Day Type: Off Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub cleanup and README update
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:034636f2-9f5b-42b3-b69b-6bff81100fc4@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:LinkedIn / networking / open-source search
+DTSTART;TZID=America/Edmonton:20260512T183000
+DTEND;TZID=America/Edmonton:20260512T191500
+DESCRIPTION:Day Type: Off Day\\nCategory: Networking\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LinkedIn / networking / open-source search
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eafe32b8-28a2-410e-abe8-9271ae888df7@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Deep project coding
+DTSTART;TZID=America/Edmonton:20260513T080000
+DTEND;TZID=America/Edmonton:20260513T093000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Deep project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a5886fe9-4991-4477-871b-672641fb44d4@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Continue project coding
+DTSTART;TZID=America/Edmonton:20260513T094500
+DTEND;TZID=America/Edmonton:20260513T110000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Continue project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36b2f6c1-f4eb-4fc2-af82-b39e09f70c48@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260513T110000
+DTEND;TZID=America/Edmonton:20260513T113000
+DESCRIPTION:Day Type: Off Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a5d09503-3903-427a-ae55-a354237f7a1b@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Learning block
+DTSTART;TZID=America/Edmonton:20260513T133000
+DTEND;TZID=America/Edmonton:20260513T150000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Learning block
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e70b6427-05ae-4429-b15b-89d155b6c051@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Small experiment and notes
+DTSTART;TZID=America/Edmonton:20260513T150000
+DTEND;TZID=America/Edmonton:20260513T153000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Small experiment and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa8e93f8-e6bd-4b29-b138-5573316bde1e@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub cleanup and README update
+DTSTART;TZID=America/Edmonton:20260513T173000
+DTEND;TZID=America/Edmonton:20260513T183000
+DESCRIPTION:Day Type: Off Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub cleanup and README update
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:709c3f26-06cd-44bc-965d-99223db9e73e@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:LinkedIn / networking / open-source search
+DTSTART;TZID=America/Edmonton:20260513T183000
+DTEND;TZID=America/Edmonton:20260513T191500
+DESCRIPTION:Day Type: Off Day\\nCategory: Networking\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LinkedIn / networking / open-source search
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:18874a47-4a8d-4222-87e4-fd7d53a1b2b8@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Deep project coding
+DTSTART;TZID=America/Edmonton:20260515T080000
+DTEND;TZID=America/Edmonton:20260515T093000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Deep project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e9acfdd-f214-48be-9381-b9c5d1823963@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Continue project coding
+DTSTART;TZID=America/Edmonton:20260515T094500
+DTEND;TZID=America/Edmonton:20260515T110000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Continue project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9d9ed440-a829-44ff-a835-d89b047ee71f@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260515T110000
+DTEND;TZID=America/Edmonton:20260515T113000
+DESCRIPTION:Day Type: Off Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a4461b09-b432-498b-8c80-da5de69dcc01@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Learning block
+DTSTART;TZID=America/Edmonton:20260515T133000
+DTEND;TZID=America/Edmonton:20260515T150000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Learning block
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ba649a61-1608-450a-8443-99b1ffd14909@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Small experiment and notes
+DTSTART;TZID=America/Edmonton:20260515T150000
+DTEND;TZID=America/Edmonton:20260515T153000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Small experiment and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b43e347-9790-419a-bf64-6fba0a3dcfed@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub cleanup and README update
+DTSTART;TZID=America/Edmonton:20260515T173000
+DTEND;TZID=America/Edmonton:20260515T183000
+DESCRIPTION:Day Type: Off Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub cleanup and README update
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f1dcce4c-4020-4240-b8ba-0cbcb12e1214@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:LinkedIn / networking / open-source search
+DTSTART;TZID=America/Edmonton:20260515T183000
+DTEND;TZID=America/Edmonton:20260515T191500
+DESCRIPTION:Day Type: Off Day\\nCategory: Networking\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LinkedIn / networking / open-source search
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f3a299ee-07b3-4261-81de-031732a0d275@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Deep project coding
+DTSTART;TZID=America/Edmonton:20260517T080000
+DTEND;TZID=America/Edmonton:20260517T093000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Deep project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6ceb8e17-39e4-40dc-932d-a24c75771d4a@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Continue project coding
+DTSTART;TZID=America/Edmonton:20260517T094500
+DTEND;TZID=America/Edmonton:20260517T110000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Continue project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f5fe3512-e84d-40ab-a4b0-085a55c76a9c@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260517T110000
+DTEND;TZID=America/Edmonton:20260517T113000
+DESCRIPTION:Day Type: Off Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bf0f7a20-d4e3-4fa5-8907-cb6a2a642d0b@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Learning block
+DTSTART;TZID=America/Edmonton:20260517T133000
+DTEND;TZID=America/Edmonton:20260517T150000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Learning block
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:23c31042-b8d5-447e-8abc-4fda17015aa4@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Small experiment and notes
+DTSTART;TZID=America/Edmonton:20260517T150000
+DTEND;TZID=America/Edmonton:20260517T153000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Small experiment and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8b56fc2b-1095-4333-904c-83aa2ca5e7da@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub cleanup and README update
+DTSTART;TZID=America/Edmonton:20260517T173000
+DTEND;TZID=America/Edmonton:20260517T183000
+DESCRIPTION:Day Type: Off Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub cleanup and README update
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b9bbb9c2-20f2-4a3e-aa35-5d98a00fac98@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:LinkedIn / networking / open-source search
+DTSTART;TZID=America/Edmonton:20260517T183000
+DTEND;TZID=America/Edmonton:20260517T191500
+DESCRIPTION:Day Type: Off Day\\nCategory: Networking\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LinkedIn / networking / open-source search
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b2bf84b7-1aaa-4072-8e12-834d04d64a9f@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Deep project coding
+DTSTART;TZID=America/Edmonton:20260518T080000
+DTEND;TZID=America/Edmonton:20260518T093000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Deep project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:43f00ce0-ecd0-4903-98a5-a2e451c5f908@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Continue project coding
+DTSTART;TZID=America/Edmonton:20260518T094500
+DTEND;TZID=America/Edmonton:20260518T110000
+DESCRIPTION:Day Type: Off Day\\nCategory: Project Coding\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Continue project coding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:730a30a9-33dc-4ab3-9c97-d719f27ebec6@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Exercism / Python practice
+DTSTART;TZID=America/Edmonton:20260518T110000
+DTEND;TZID=America/Edmonton:20260518T113000
+DESCRIPTION:Day Type: Off Day\\nCategory: Python Practice\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Exercism / Python practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ce22ee27-19a3-46ff-80f4-6d9022bc1c1c@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Learning block
+DTSTART;TZID=America/Edmonton:20260518T133000
+DTEND;TZID=America/Edmonton:20260518T150000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Learning block
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:81b55ce4-cfa8-4904-9c51-52865c3bd113@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Small experiment and notes
+DTSTART;TZID=America/Edmonton:20260518T150000
+DTEND;TZID=America/Edmonton:20260518T153000
+DESCRIPTION:Day Type: Off Day\\nCategory: Learning\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Small experiment and notes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e7a5c78e-df9d-48b1-968b-430933888831@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:GitHub cleanup and README update
+DTSTART;TZID=America/Edmonton:20260518T173000
+DTEND;TZID=America/Edmonton:20260518T183000
+DESCRIPTION:Day Type: Off Day\\nCategory: GitHub\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:GitHub cleanup and README update
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a15309e3-5d5d-4ff8-8530-7e29259d0b6b@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:LinkedIn / networking / open-source search
+DTSTART;TZID=America/Edmonton:20260518T183000
+DTEND;TZID=America/Edmonton:20260518T191500
+DESCRIPTION:Day Type: Off Day\\nCategory: Networking\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:LinkedIn / networking / open-source search
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:637d80f5-140d-4678-a739-cf67a9ea371e@chatgpt-calendar
+DTSTAMP:20260504T062842Z
+SUMMARY:Weekly review
+DTSTART;TZID=America/Edmonton:20260517T200000
+DTEND;TZID=America/Edmonton:20260517T203000
+DESCRIPTION:Day Type: Weekly Review\\nCategory: Review\\nProject Focus: Resume Intelligence Platform\\nReminder: 5 minutes before
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Weekly review
+END:VALARM
+END:VEVENT
+END:VCALENDAR
